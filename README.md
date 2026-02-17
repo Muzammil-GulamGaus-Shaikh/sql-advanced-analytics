@@ -1,2 +1,121 @@
-# sql-advanced-analytics
-Advanced SQL analytics project focused on exploratory data analysis (EDA), KPI reporting, window functions, CTEs, and real-world business insights using structured warehouse-style datasets.
+# SQL Advanced Analytics Project
+
+This repository contains a collection of advanced SQL analytics scripts built on a warehouse-style sales data model.  
+The project demonstrates practical data analysis skills by answering real business questions using SQL.
+
+---
+
+## Project Objective
+
+The objective of this project is to:
+- Apply SQL to real-world analytics scenarios
+- Build business-focused KPIs and reports
+- Demonstrate analytical thinking and clean query design
+- Create an interview-ready SQL portfolio for Data Analyst and BI Analyst roles
+
+---
+
+## Scripts Overview
+
+### 1. Time-Based Analysis
+**File:** `01_time_based_analysis.sql`
+
+- Monthly and yearly sales trends  
+- Revenue growth analysis  
+- Seasonality insights  
+
+---
+
+### 2. Cumulative Analysis
+**File:** `02_cumulative_analysis.sql`
+
+- Running total of revenue  
+- Cumulative sales growth  
+- Long-term performance trends  
+
+---
+
+### 3. Performance Analysis
+**File:** `03_performance_analysis.sql`
+
+- Product and category performance  
+- Revenue-based ranking  
+- High / Mid / Low performer classification  
+
+---
+
+### 4. Part-to-Whole Analysis
+**File:** `04_part_to_whole.sql`
+
+- Revenue contribution analysis  
+- Category and product share of total sales  
+
+---
+
+### 5. Data Segmentation
+**File:** `05_data_segmentation.sql`
+
+- Product price segmentation  
+- Customer grouping logic  
+- Business-oriented segmentation  
+
+---
+
+### 6. Customer Analytics Report
+**File:** `06_customer_report.sql`
+
+- Customer-level KPIs  
+- Recency calculation  
+- Total orders and revenue per customer  
+
+---
+
+### 7. Product Analytics Report
+**File:** `07_product_report.sql`
+
+- Product-level KPIs  
+- Total sales, orders, and customers  
+- Product lifespan analysis  
+- Recency (months since last sale)  
+- Average order revenue  
+- Average monthly revenue  
+- Product performance classification  
+
+---
+
+## Key SQL Concepts Used
+
+- Common Table Expressions (CTEs)  
+- Aggregations and grouping  
+- Date and time analysis  
+- Business KPI calculations  
+- CASE statements  
+- Recency and lifespan logic  
+- Fact and Dimension table modeling  
+
+---
+
+## Technology Stack
+
+- MicroSoft SQL Server
+- Warehouse-style star schema  
+- Fact and Dimension tables  
+
+---
+
+## Use Case
+
+This project is suitable for:
+- Data Analyst and BI Analyst portfolios  
+- SQL interview preparation  
+- Entry-level analytics roles  
+- Demonstrating business-oriented SQL skills  
+
+---
+
+## Author
+
+**Muzammil Shaikh**  
+Aspiring Data Analyst  
+Mumbai, India
+
