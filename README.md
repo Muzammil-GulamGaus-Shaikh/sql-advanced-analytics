@@ -22,7 +22,8 @@ The objective of this project is to:
 
 - Monthly and yearly sales trends  
 - Revenue growth analysis  
-- Seasonality insights  
+- Seasonality insights  </br> <img width="655" height="411" alt="image" src="https://github.com/user-attachments/assets/600a704f-3693-43f5-890f-4dc76e5b451c" />
+
 
 ---
 
@@ -31,7 +32,8 @@ The objective of this project is to:
 
 - Running total of revenue  
 - Cumulative sales growth  
-- Long-term performance trends  
+- Long-term performance trends </br> <img width="722" height="361" alt="image" src="https://github.com/user-attachments/assets/2d63acb7-51a2-4ada-b51e-95e5dbcdb3a0" />
+
 
 ---
 
@@ -40,7 +42,8 @@ The objective of this project is to:
 
 - Product and category performance  
 - Revenue-based ranking  
-- High / Mid / Low performer classification  
+- High / Mid / Low performer classification </br> <img width="862" height="418" alt="image" src="https://github.com/user-attachments/assets/38b0dee2-0d6e-4b09-aad0-3916f3391221" />
+ 
 
 ---
 
@@ -48,7 +51,8 @@ The objective of this project is to:
 **File:** `04_part_to_whole.sql`
 
 - Revenue contribution analysis  
-- Category and product share of total sales  
+- Category and product share of total sales</br> <img width="743" height="404" alt="image" src="https://github.com/user-attachments/assets/54ca74cd-3e09-4ef2-9f77-523de50d630f" />
+
 
 ---
 
@@ -57,7 +61,8 @@ The objective of this project is to:
 
 - Product price segmentation  
 - Customer grouping logic  
-- Business-oriented segmentation  
+- Business-oriented segmentation</br> <img width="416" height="247" alt="image" src="https://github.com/user-attachments/assets/f1d0a929-066a-48c8-b58d-979f4fa4330d" />
+
 
 ---
 
@@ -66,8 +71,7 @@ The objective of this project is to:
 
 - Customer-level KPIs  
 - Recency calculation  
-- Total orders and revenue per customer
-- <img width="1103" height="457" alt="image" src="https://github.com/user-attachments/assets/afd16839-ca32-4c58-81d8-e0fcd4f2b898" />
+- Total orders and revenue per customer</br><img width="1103" height="457" alt="image" src="https://github.com/user-attachments/assets/afd16839-ca32-4c58-81d8-e0fcd4f2b898" />
 
 
 ---
@@ -81,7 +85,8 @@ The objective of this project is to:
 - Recency (months since last sale)  
 - Average order revenue  
 - Average monthly revenue  
-- Product performance classification  
+- Product performance classification</br><img width="1090" height="505" alt="image" src="https://github.com/user-attachments/assets/1a821c15-edd4-4df5-b7de-3c0643f88778" />
+
 
 ---
 
