@@ -66,7 +66,9 @@ The objective of this project is to:
 
 - Customer-level KPIs  
 - Recency calculation  
-- Total orders and revenue per customer  
+- Total orders and revenue per customer
+- <img width="1103" height="457" alt="image" src="https://github.com/user-attachments/assets/afd16839-ca32-4c58-81d8-e0fcd4f2b898" />
+
 
 ---
 
